@@ -1,0 +1,15 @@
+C:\Users\ASUS -TUF GAMING\source\repos\TPmod3_1302204026\bin\Debug\net6.0\TPmod3_1302204026.exe
+C:\Users\ASUS -TUF GAMING\source\repos\TPmod3_1302204026\bin\Debug\net6.0\TPmod3_1302204026.deps.json
+C:\Users\ASUS -TUF GAMING\source\repos\TPmod3_1302204026\bin\Debug\net6.0\TPmod3_1302204026.runtimeconfig.json
+C:\Users\ASUS -TUF GAMING\source\repos\TPmod3_1302204026\bin\Debug\net6.0\TPmod3_1302204026.dll
+C:\Users\ASUS -TUF GAMING\source\repos\TPmod3_1302204026\bin\Debug\net6.0\TPmod3_1302204026.pdb
+C:\Users\ASUS -TUF GAMING\source\repos\TPmod3_1302204026\obj\Debug\net6.0\TPmod3_1302204026.csproj.AssemblyReference.cache
+C:\Users\ASUS -TUF GAMING\source\repos\TPmod3_1302204026\obj\Debug\net6.0\TPmod3_1302204026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS -TUF GAMING\source\repos\TPmod3_1302204026\obj\Debug\net6.0\TPmod3_1302204026.AssemblyInfoInputs.cache
+C:\Users\ASUS -TUF GAMING\source\repos\TPmod3_1302204026\obj\Debug\net6.0\TPmod3_1302204026.AssemblyInfo.cs
+C:\Users\ASUS -TUF GAMING\source\repos\TPmod3_1302204026\obj\Debug\net6.0\TPmod3_1302204026.csproj.CoreCompileInputs.cache
+C:\Users\ASUS -TUF GAMING\source\repos\TPmod3_1302204026\obj\Debug\net6.0\TPmod3_1302204026.dll
+C:\Users\ASUS -TUF GAMING\source\repos\TPmod3_1302204026\obj\Debug\net6.0\refint\TPmod3_1302204026.dll
+C:\Users\ASUS -TUF GAMING\source\repos\TPmod3_1302204026\obj\Debug\net6.0\TPmod3_1302204026.pdb
+C:\Users\ASUS -TUF GAMING\source\repos\TPmod3_1302204026\obj\Debug\net6.0\TPmod3_1302204026.genruntimeconfig.cache
+C:\Users\ASUS -TUF GAMING\source\repos\TPmod3_1302204026\obj\Debug\net6.0\ref\TPmod3_1302204026.dll

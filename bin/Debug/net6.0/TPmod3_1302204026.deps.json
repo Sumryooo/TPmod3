@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TPmod3_1302204026/1.0.0": {
+        "runtime": {
+          "TPmod3_1302204026.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TPmod3_1302204026/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
